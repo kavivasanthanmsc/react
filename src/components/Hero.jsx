@@ -18,7 +18,7 @@ function Hero() {
       <div className="absolute z-10 top-[28%] sm:top-[32%] lg:top-[35%] left-5 sm:left-10 lg:left-16 right-5">
 
         <h1 className="max-w-[full] text-3xl sm:text-4xl md:text-5xl font-bold leading-tight text-[#4B40C5]">
-          Travel, enjoy and live a new and full life
+          Travel, enjoy and live a 
         </h1>
 
         <h5 className="mt-4 max-w-[750px] text-lg sm:text-2xl lg:text-3xl font-bold text-white uppercase">
