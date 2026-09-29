@@ -36,21 +36,21 @@ function Destinations() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
 
           <DestinationCard
-            image="/images/32e1459ae49e57046b9c9bf320fe245919168bb0.png"
+            image="/react/images/32e1459ae49e57046b9c9bf320fe245919168bb0.png"
             place="Rome, Italy"
             price="₹5.42 Lakh"
             days="10 Days Trip"
           />
 
           <DestinationCard
-            image="/images/599d5437ff6f71a7522170940c3ac66332ac8d2f.jpg"
+            image="/react/images/599d5437ff6f71a7522170940c3ac66332ac8d2f.jpg"
             place="London, UK"
             price="₹4.2 Lakh"
             days="12 Days Trip"
           />
 
           <DestinationCard
-            image="/images/1119f8e879b2e4cb46bd33155639a62530f9a579.png"
+            image="/react/images/1119f8e879b2e4cb46bd33155639a62530f9a579.png"
             place="Full Europe"
             price="₹15 Lakh"
             days="28 Days Trip"

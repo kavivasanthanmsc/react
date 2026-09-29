@@ -5,14 +5,14 @@ function ServiceCard({ image, title, description, shadow, cornerImage , cornerIm
       {/* BACKGROUND RECTANGLE IMAGE */}
       {cornerImage && (
         <img
-          src={`/images/${cornerImage}`}
+          src={`/react/images/${cornerImage}`}
           alt=""
           className="absolute -top-4 -right-4 w-20 h-20 object-contain z-0 "
         />
       )}
       {cornerImage2 && (
         <img
-          src={`/images/${cornerImage2}`}
+          src={`/react/images/${cornerImage2}`}
           alt=""
           className="absolute -bottom-4 -left-4 w-20 h-20 object-contain z-0"
         />
@@ -26,7 +26,7 @@ function ServiceCard({ image, title, description, shadow, cornerImage , cornerIm
       >
         <div className="w-20 h-20 mx-auto mb-5 flex items-center justify-center">
           <img
-            src={`/images/${image}`}
+            src={`/react/images/${image}`}
             alt={title}
           />
         </div>

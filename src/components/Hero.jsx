@@ -6,7 +6,7 @@ function Hero() {
 
       {/* Background Image */}
       <img
-        src="/images/07a66fa70e8d995c265ef2a1c7eb9894c96170fb.jpg"
+        src="/react/images/07a66fa70e8d995c265ef2a1c7eb9894c96170fb.jpg"
         alt="Travel"
         className="absolute inset-0 w-full h-full object-cover"
       />

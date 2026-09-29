@@ -8,7 +8,7 @@ function Card({ icon, color, title }) {
         flex items-center justify-center shadow-lg`}
       >
         <img
-          src={`/images/${icon}`}
+          src={`/react/images/${icon}`}
           alt=""
           className="w-8"
         />

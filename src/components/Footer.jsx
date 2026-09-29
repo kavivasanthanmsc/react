@@ -42,20 +42,20 @@ function SocialApps() {
       <div className="flex gap-4 mb-5">
 
         <img
-          src="/images/Social.png"
+          src="/react/images/Social.png"
           className="w-15 h-15 hover:-translate-y-2 transition duration-300 "
           
           alt=""
         />
 
         <img
-          src="/images/Social (1).png"
+          src="/react/images/Social (1).png"
           className="w-15 h-15 hover:-translate-y-2 transition duration-300 "
           alt=""
         />
 
         <img
-          src="/images/Social (2).png"
+          src="/react/images/Social (2).png"
           className="w-15 h-15 hover:-translate-y-2 transition duration-300 "
           
           alt=""
@@ -76,7 +76,7 @@ function SocialApps() {
         <div className="flex items-center bg-black text-white rounded-xl">
 
           <img
-            src="/images/google-play 1.png"
+            src="/react/images/google-play 1.png"
             className="w-7"
             alt=""
           />

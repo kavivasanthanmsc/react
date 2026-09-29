@@ -6,7 +6,7 @@ function Step({ color, title, image }) {
         className={`w-12 h-12 rounded-xl ${color} flex-shrink-0 flex items-center justify-center`}
       >
         <img
-          src={`/images/${image}`}
+          src={`/react/images/${image}`}
           alt=""
           className=""
         />
@@ -78,7 +78,7 @@ function EasyTrip() {
           <div className="bg-white rounded-3xl p-5 shadow-2xl">
 
             <img
-              src="/images/bdc4e9e798bb7e15ae87fe31c13c5b3cc6d31461.jpg"
+              src="/react/images/bdc4e9e798bb7e15ae87fe31c13c5b3cc6d31461.jpg"
               alt="Greece"
               className="w-full h-48 object-cover rounded-2xl"
             />
@@ -94,19 +94,19 @@ function EasyTrip() {
             <div className="flex gap-3 mt-5">
 
               <img
-                src="/images/LEAF.png"
+                src="/react/images/LEAF.png"
                 className="w-9 h-9 p-2 rounded-full bg-gray-100"
                 alt=""
               />
 
               <img
-                src="/images/map icon.png"
+                src="/react/images/map icon.png"
                 className="w-9 h-9 p-2 rounded-full bg-gray-100"
                 alt=""
               />
 
               <img
-                src="/images/send.png"
+                src="/react/images/send.png"
                 className="w-9 h-9 p-2 rounded-full bg-gray-100"
                 alt=""
               />
@@ -118,7 +118,7 @@ function EasyTrip() {
               <span className="flex items-center gap-2">
 
                 <img
-                  src="/images/building 1.png"
+                  src="/react/images/building 1.png"
                   className="w-5"
                   alt=""
                 />
@@ -128,7 +128,7 @@ function EasyTrip() {
               </span>
 
               <img
-                src="/images/heart (6) 1.png"
+                src="/react/images/heart (6) 1.png"
                 className="w-5"
                 alt=""
               />
@@ -143,7 +143,7 @@ function EasyTrip() {
             <div className="flex gap-3">
 
               <img
-                src="/images/0936a74669c796b13d6446c8177e79c2a2249ca6.png"
+                src="/react/images/0936a74669c796b13d6446c8177e79c2a2249ca6.png"
                 className="w-11 h-11 rounded-full object-cover"
                 alt=""
               />
