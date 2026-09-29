@@ -1,12 +1,12 @@
 import Navbar from "./Navbar"
-
+import Image from '../assets/hero.png'
 function Hero() {
   return (
     <section className="relative min-h-[650px] sm:min-h-[750px] lg:min-h-[857px] overflow-hidden">
 
       {/* Background Image */}
       <img
-        src="/react/images/07a66fa70e8d995c265ef2a1c7eb9894c96170fb.jpg"
+        src={Image}
         alt="Travel"
         className="absolute inset-0 w-full h-full object-cover"
       />
